@@ -1,3 +1,5 @@
+[https://bitcoder0.github.io/playmusicfromurl/](https://bitcoder0.github.io/playmusicfromurl/).
+
 # Music Streamer
 
 A simple HTML-based music streaming application that allows you to play music directly from a URL when you don't want to save the file.

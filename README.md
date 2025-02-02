@@ -16,7 +16,7 @@ This project is a lightweight, web-based music player that lets you stream audio
 
 1. Visit the page: [https://bitcoder0.github.io/playmusicfromurl/](https://bitcoder0.github.io/playmusicfromurl/).
 2. Enter the music direct link URL, for example:  
-   `https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3`.
+   `https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3`
 3. Click "Play Music" to start streaming.
 
 ---
